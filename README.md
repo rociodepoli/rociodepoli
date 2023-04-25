@@ -6,7 +6,7 @@
 ### <div align="center">I'm Rocío and I'm a Full Stack Developer.</div>  
   
 
-- 🔭I'm currently working on a project called [Psiconnect](https://github.com/Psiconnect) | Actualmente estoy trabajando en un proyecto llamado [Psiconnect](https://github.com/Psiconnect)
+- 🔭I've been recently working on a project called [Psiconnect](https://github.com/Psiconnect) | Últimamente estuve trabajando en un proyecto llamado [Psiconnect](https://github.com/Psiconnect)
   
 
 - 🌱 I'm currently looking for a job that allows me to keep growing on the development area. | Estoy en búsqueda laboral que me permita seguir creciendo en el desarrollo web.
